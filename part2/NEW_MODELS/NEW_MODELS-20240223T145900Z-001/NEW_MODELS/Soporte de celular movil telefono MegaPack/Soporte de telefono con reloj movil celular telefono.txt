@@ -1,0 +1,20 @@
+1. Archivos de trabajo para máquinas de corte. El diseño se ajusta a madera contrachapada de 3 mm de espesor.
+
+Obtiene los siguientes formatos de archivo:
+– DXF
+– SVG
+– CDR
+– Ai
+– PDF
+
+DIMENSIONES y MATERIALES: 8 x 9 x 12,5 cm Tamaño del reloj: 6,5 cm
+
+Materiales a utilizar:
+– Madera contrachapada
+– MDF
+– Acrílico
+– Plexiglás
+
+NOTA
+Si desea cambiar el tamaño del diseño, preste atención a la delgadez de los elementos.
+Puede pegar las piezas antes de ensamblarlas. Si desea pintar las piezas, hágalo antes de pegarlas.

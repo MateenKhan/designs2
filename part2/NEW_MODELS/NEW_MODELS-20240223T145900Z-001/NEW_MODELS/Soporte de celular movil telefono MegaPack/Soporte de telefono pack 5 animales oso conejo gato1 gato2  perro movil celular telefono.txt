@@ -1,0 +1,18 @@
+. Archivos de trabajo para máquinas de corte. El diseño se ajusta a madera contrachapada de 3 mm - 4 mm - 6 mm de espesor.
+
+Obtiene los siguientes formatos de archivo:
+– DXF
+– SVG
+– CDR
+– Ai
+– PDF
+
+Materiales a utilizar:
+– Madera contrachapada
+– MDF
+– Acrílico
+– Plexiglás
+
+NOTA
+Si desea cambiar el tamaño del diseño, preste atención a la delgadez de los elementos.
+Puede pegar las piezas antes de ensamblarlas. Si desea pintar las piezas, hágalo antes de pegarlas.
