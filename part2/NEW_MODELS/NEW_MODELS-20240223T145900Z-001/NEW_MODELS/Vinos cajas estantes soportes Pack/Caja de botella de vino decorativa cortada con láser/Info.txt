@@ -1,0 +1,17 @@
+3mm
+
+Estos archivos son archivos en los siguientes formatos:
+
+AI – 1 archivo individual
+SVG – 1 archivo individual
+DXF – 1 archivo individual
+EPS – 1 archivo individual
+CDR – 1 archivo individual
+PNG – 1 archivo individual
+DWG – 1 archivo individual
+PDF – 1 archivo individual
+PSD – 1 archivo individual
+
+Están empaquetados en un archivo zip. El archivo Zip necesita ser extraído
+
+Puedes cortarlos o imprimirlos en cualquier cortadora o impresora. Solo asegúrese de que su máquina de corte y el software sean compatibles.

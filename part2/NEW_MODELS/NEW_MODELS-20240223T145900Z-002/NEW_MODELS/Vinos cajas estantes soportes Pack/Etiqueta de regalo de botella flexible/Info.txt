@@ -1,0 +1,12 @@
+Este es un archivo digital para hacer etiquetas de regalo personalizadas para vino/licores con bisagras vivas a partir de materiales cortados con láser. Ideal para un regalo, el día de la madre, el día del padre, Navidad, San Valentín, mercado, puesto o incluso etiquetas de precios de tiendas.
+
+Estos archivos se pueden cambiar de tamaño a cualquier dimensión dependiendo del tamaño del cuello de la botella.
+
+Los archivos incluidos son.
+-dxf
+-eps
+-ai
+-svg
+
+Estos archivos están basados ​​en vectores, por lo que puede escalarlos para todos los requisitos de corte por láser, CNC y corte por plasma.
+También es ideal para arte de pared vectorial, patrones CNC, corte por láser de madera, etc.

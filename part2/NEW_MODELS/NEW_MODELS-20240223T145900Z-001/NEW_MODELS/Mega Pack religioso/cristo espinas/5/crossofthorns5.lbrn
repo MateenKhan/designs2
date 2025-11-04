@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="0.9.20" FormatVersion="0" MaterialHeight="0" MirrorX="False" MirrorY="True">
+    <Thumbnail Source="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"/>
+    <VariableText>
+        <Start Value="0"/>
+        <End Value="999"/>
+        <Current Value="0"/>
+        <Increment Value="1"/>
+        <AutoAdvance Value="0"/>
+    </VariableText>
+    <UIPrefs>
+        <Optimize_ByLayer Value="0"/>
+        <Optimize_ByGroup Value="-1"/>
+        <Optimize_ByPriority Value="1"/>
+        <Optimize_WhichDirection Value="0"/>
+        <Optimize_InnerToOuter Value="1"/>
+        <Optimize_ByDirection Value="0"/>
+        <Optimize_ReduceTravel Value="1"/>
+        <Optimize_HideBacklash Value="0"/>
+        <Optimize_ReduceDirChanges Value="0"/>
+        <Optimize_ChooseCorners Value="0"/>
+        <Optimize_AllowReverse Value="1"/>
+        <Optimize_RemoveOverlaps Value="0"/>
+        <Optimize_OptimalEntryPoint Value="1"/>
+    </UIPrefs>
+    <CutSetting type="Cut">
+        <index Value="2"/>
+        <name Value="C0214"/>
+        <minPower Value="5"/>
+        <maxPower Value="85"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="2.83333"/>
+        <kerf Value="0.09"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="0"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="10"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <Shape Type="Path" CutIndex="2">
+        <XForm>0.879676 0 0 -0.879676 -1471.7 -109.96</XForm>
+        <V vx="769.94873" vy="-36.847595"/>
+        <V vx="769.94873" vy="-36.847595"/>
+        <P T="L" p0="0" p1="1"/>
+    </Shape>
+    <Shape Type="Group" CutIndex="0">
+        <XForm>1 0 0 1 21.9997 15.0004</XForm>
+        <Children>
+            <Shape Type="Path" CutIndex="2">
+                <XForm>1 0 0 1 11.178 34.52</XForm>
+                <V vx="97" vy="51.97879"/>
+                <V vx="97" vy="45.97879"/>
+                <V vx="71" vy="45.97879"/>
+                <V vx="71" vy="51.97879"/>
+                <P T="L" p0="0" p1="1"/>
+                <P T="L" p0="1" p1="2"/>
+                <P T="L" p0="2" p1="3"/>
+                <P T="L" p0="3" p1="0"/>
+            </Shape>
+            <Shape Type="Polygon" CutIndex="2" Rx="85" Ry="83.191231" N="6">
+                <XForm>1 0 0 -1 95.178 83.499</XForm>
+            </Shape>
+        </Children>
+    </Shape>
+    <Shape Type="Group" CutIndex="0">
+        <XForm>1 0 0 1 21.9997 15.0004</XForm>
+        <Children>
+            <Shape Type="Path" CutIndex="2">
+                <XForm>1 0 0 -1 580.178 426.499</XForm>
+                <V vx="-409.64453" vy="192"/>
+                <V vx="-449.78516" vy="260.04688"/>
+                <V vx="-530.21484" vy="260.04688"/>
+                <V vx="-570.35547" vy="192"/>
+                <V vx="-530.21484" vy="123.95313"/>
+                <V vx="-449.78516" vy="123.95313"/>
+                <P T="L" p0="0" p1="1"/>
+                <P T="L" p0="1" p1="2"/>
+                <P T="L" p0="2" p1="3"/>
+                <P T="L" p0="3" p1="4"/>
+                <P T="L" p0="4" p1="5"/>
+                <P T="L" p0="5" p1="0"/>
+            </Shape>
+            <Shape Type="Path" CutIndex="2">
+                <XForm>1 0 0 1 6.17798 185.52</XForm>
+                <V vx="97" vy="51.97879"/>
+                <V vx="97" vy="45.97879"/>
+                <V vx="71" vy="45.97879"/>
+                <V vx="71" vy="51.97879"/>
+                <P T="L" p0="0" p1="1"/>
+                <P T="L" p0="1" p1="2"/>
+                <P T="L" p0="2" p1="3"/>
+                <P T="L" p0="3" p1="0"/>
+            </Shape>
+        </Children>
+    </Shape>
+    <Notes ShowOnLoad="0" Notes=""/>
+</LightBurnProject>
