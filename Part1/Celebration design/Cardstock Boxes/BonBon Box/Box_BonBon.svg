@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:7.62;stroke-linejoin:bevel}
+    .str0 {stroke:blue;stroke-width:7.62;stroke-linejoin:bevel}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="_0">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="15059,10291 5941,10291 5941,19409 15059,19409 "/>
+  <line class="fil0 str1" x1="15059" y1="10291" x2="17151" y2= "2383" />
+  <path class="fil0 str1" d="M17151 2383l-733 10c-870,40 -1734,152 -2585,335 -620,139 -1229,321 -1824,547 -882,334 -1728,757 -2525,1261 -738,467 -1396,1049 -1950,1724 -318,382 -597,796 -833,1234 -183,298 -331,617 -440,950 -89,277 -164,557 -223,842 -41,213 -69,428 -83,644l-14 361"/>
+  <path class="fil0 str1" d="M-1967 8199l10 733c40,870 152,1734 335,2585 139,620 321,1229 547,1824 334,882 757,1728 1261,2525 467,738 1049,1396 1724,1950 382,318 796,597 1234,833 298,183 617,331 950,440 277,89 557,164 842,223 213,41 428,69 644,83l361 14"/>
+  <line class="fil0 str1" x1="5941" y1="10291" x2="-1967" y2= "8199" />
+  <path class="fil0 str1" d="M3849 27317l733 -10c870,-40 1734,-152 2585,-335 620,-139 1229,-321 1824,-547 882,-334 1728,-757 2525,-1261 738,-467 1396,-1049 1950,-1724 318,-382 597,-796 833,-1234 183,-298 331,-617 440,-950 89,-276 164,-557 223,-842 41,-213 69,-428 83,-644l14 -361"/>
+  <line class="fil0 str1" x1="5941" y1="19409" x2="3849" y2= "27317" />
+  <path class="fil0 str1" d="M22967 21501l-10 -733c-40,-870 -152,-1734 -335,-2585 -139,-620 -321,-1229 -547,-1824 -334,-882 -757,-1728 -1261,-2525 -467,-738 -1049,-1396 -1724,-1950 -382,-318 -796,-597 -1234,-833 -298,-183 -617,-331 -950,-440 -276,-89 -557,-164 -842,-223 -213,-41 -428,-69 -644,-83l-361 -14"/>
+  <line class="fil0 str1" x1="15059" y1="19409" x2="22967" y2= "21501" />
+ </g>
+</svg>
