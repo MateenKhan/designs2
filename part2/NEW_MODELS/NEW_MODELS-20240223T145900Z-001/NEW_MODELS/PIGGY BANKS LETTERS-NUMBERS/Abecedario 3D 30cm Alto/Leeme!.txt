@@ -1,0 +1,10 @@
+formatos:
+
+-AI
+-CMX
+-EPS
+-PDF
+-PLT
+-SVG
+
+Los archivos están diseñados y listos para cortar en material de 3mm de espesor.
