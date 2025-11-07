@@ -1,0 +1,3 @@
+buffers = 20
+files   = 15
+shell   = erompaq.exe /!
