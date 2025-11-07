@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1080"
+   height="1080"
+   id="svg2516"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="angel_TuJs.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2518">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 372.04724 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1052.3622 : 372.04724 : 1"
+       inkscape:persp3d-origin="526.18109 : 248.03149 : 1"
+       id="perspective2525" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43415837"
+     inkscape:cx="557.63713"
+     inkscape:cy="553.66798"
+     inkscape:current-layer="layer2"
+     id="namedview2520"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="776"
+     inkscape:window-height="727"
+     inkscape:window-x="215"
+     inkscape:window-y="13" />
+  <metadata
+     id="metadata2522">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <image
+       style="opacity:1;display:inline"
+       y="-53.802746"
+       x="-88.918533"
+       id="image2504"
+       height="1187.7018"
+       width="1257.621"
+       sodipodi:absref="C:\Users\Stinson\Documents\Cricut\cricutmatt.jpg"
+       xlink:href="C:\Users\Stinson\Documents\Cricut\cricutmatt.jpg" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="new">
+    <path
+       style="font-size:919.72991943px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DextorOutD;-inkscape-font-specification:DextorOutD"
+       d="M 1333.6514,876.90945 C 1313.4044,886.71439 1266.4936,895.30316 1192.9188,902.67581 C 1130.3829,909.41196 1080.7215,912.78011 1043.9343,912.78027 C 1012.6662,912.78011 954.72466,908.18633 870.10958,898.99891 C 776.28765,888.57622 724.16556,879.37931 713.74314,871.40814 C 722.94928,851.16171 738.5831,827.54725 760.64465,800.56469 C 793.1471,760.10944 810.62405,737.72996 813.07554,733.4262 C 789.77896,729.75868 770.46356,717.9608 755.1293,698.03254 C 739.7947,678.10438 732.12749,655.87461 732.12764,631.34314 C 732.12749,603.14438 741.63315,575.86238 760.64465,549.49705 C 778.42081,528.65216 796.2065,507.49832 814.00179,486.03547 C 833.01288,461.50439 842.51854,437.59054 842.5188,414.29384 C 842.51854,395.28285 826.88004,366.00335 795.60326,326.45525 C 764.32605,286.90801 748.68755,253.95161 748.68771,227.58597 C 748.68755,171.78751 782.41581,143.88801 849.8726,143.8874 C 866.41368,143.88801 884.19002,145.73114 903.20167,149.41678 C 906.2701,116.29727 918.53578,88.393094 939.99872,65.704185 C 961.46095,43.016653 988.44356,31.672543 1020.9466,31.67182 C 1054.0476,31.672543 1082.0968,43.629469 1105.0943,67.542634 C 1128.0907,91.457173 1139.8886,119.97416 1140.4879,153.09368 C 1162.5675,146.95677 1180.3532,143.88801 1193.8451,143.8874 C 1223.2783,143.88801 1247.5009,150.63367 1266.513,164.12438 C 1287.9749,179.45004 1298.7062,201.21202 1298.7069,229.41038 C 1298.7062,256.39352 1283.0677,289.50896 1251.7913,328.75682 C 1220.5137,368.00553 1204.8752,397.12598 1204.8758,416.11825 C 1204.8752,439.43366 1223.269,473.47067 1260.0573,518.22938 C 1296.8443,562.98856 1315.2381,601.31061 1315.2389,633.19562 C 1315.2381,658.32587 1307.2669,680.3966 1291.325,699.40787 C 1275.3817,718.41925 1255.1541,730.98431 1230.6421,737.1031 C 1249.0353,759.80069 1267.4292,782.48891 1285.8237,805.16783 C 1306.6681,832.15038 1322.6106,856.06424 1333.6514,876.90945 L 1333.6514,876.90945 z"
+       id="path2420"
+       inkscape:export-filename="C:\Users\Stinson\Documents\Cricut\Lea Created\angel_TuJs.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="font-size:919.72991943000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DextorOutD;-inkscape-font-specification:DextorOutD"
+       d="M 443.11373,147.5643 C 443.11321,124.26855 434.07066,103.72752 415.98608,85.941162 C 397.90049,68.156137 377.20042,59.26329 353.88578,59.262595 C 329.37271,59.26329 308.37792,68.001763 290.90135,85.478041 C 273.42403,102.95566 264.68555,123.9598 264.6859,148.49054 C 264.68555,171.78751 273.7281,192.47823 291.81356,210.56277 C 309.89827,228.6484 330.58899,237.69094 353.88578,237.69042 C 377.20042,237.69094 397.90049,228.49402 415.98608,210.09965 C 434.07066,191.70636 443.11321,170.86127 443.11373,147.5643 L 443.11373,147.5643 z"
+       id="path2418"
+       inkscape:export-filename="C:\Users\Stinson\Documents\Cricut\Lea Created\angel_TuJs.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="font-size:919.72991943000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DextorOutD;-inkscape-font-specification:DextorOutD"
+       d="M 619.68908,633.19562 C 619.68837,608.0469 601.29454,572.78426 564.50753,527.40759 C 527.71922,482.03138 509.32539,444.93497 509.32598,416.11825 C 509.32539,389.75348 524.95921,356.95145 556.22749,317.71209 C 587.49449,278.4736 603.12831,248.74034 603.129,228.51221 C 603.12831,209.50141 594.54889,194.78448 577.39071,184.36136 C 563.28125,175.77315 546.11305,171.47876 525.88606,171.47818 C 487.26401,171.47876 457.52139,191.09822 436.65811,230.33663 C 420.11624,261.60479 411.84556,298.39246 411.84606,340.69973 C 411.84556,398.35161 425.33687,462.43063 452.32001,532.93698 C 476.21462,596.70747 506.86477,655.26647 544.27055,708.61415 C 563.89874,711.06546 581.37569,704.01106 596.70144,687.45093 C 612.02584,670.89093 619.68837,652.80585 619.68908,633.19562 L 619.68908,633.19562 z"
+       id="path2416"
+       inkscape:export-filename="C:\Users\Stinson\Documents\Cricut\Lea Created\angel_TuJs.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="font-size:919.72991943000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DextorOutD;-inkscape-font-specification:DextorOutD"
+       d="M 625.21846,862.20186 C 555.92746,770.23259 509.63413,704.92794 486.33834,666.28771 C 441.57883,591.4962 411.53682,517.30338 396.21222,443.70903 L 369.51962,434.53081 L 395.28598,257.9274 C 371.98914,264.06541 345.62403,264.68291 316.19056,259.77988 L 341.92885,432.67833 L 314.33807,440.03213 C 308.81765,497.68391 279.08439,570.6511 225.13819,658.93391 C 199.98904,699.40792 153.69572,765.32071 86.258075,856.67248 C 135.91938,863.42738 185.58085,869.86429 235.24265,875.98321 C 295.94384,883.95437 345.30592,887.94002 383.32904,887.94015 C 413.97872,887.94002 454.14389,884.57187 503.82466,877.8357 C 544.27928,872.93305 584.74384,867.72177 625.21846,862.20186 L 625.21846,862.20186 z"
+       id="path2414"
+       inkscape:export-filename="C:\Users\Stinson\Documents\Cricut\Lea Created\angel_TuJs.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="font-size:919.72991943000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DextorOutD;-inkscape-font-specification:DextorOutD"
+       d="M 299.63048,337.02283 C 299.63009,303.92183 295.03631,276.33109 285.84912,254.2505 C 280.32873,240.16092 271.43121,225.75273 259.15652,211.02589 C 248.73363,198.77012 242.91422,189.5732 241.69827,183.43512 C 219.61786,174.24813 200.91528,169.65435 185.59048,169.65376 C 165.34389,169.65435 148.1757,173.93938 134.08583,182.50887 C 116.90805,192.93199 108.31927,207.64893 108.31947,226.65973 C 108.31927,247.50535 123.95777,277.70173 155.23501,317.24897 C 186.51177,356.79708 202.15027,389.14534 202.15056,414.29384 C 202.15027,443.72805 183.75176,481.12853 146.95497,526.49539 C 110.15772,571.8627 91.759213,606.81191 91.759389,631.34314 C 91.759213,649.1196 98.504865,666.13342 111.99637,682.38467 C 125.48747,698.63605 141.13065,706.76171 158.92595,706.76166 C 182.22206,706.76171 211.95532,652.80585 248.12583,544.89391 C 282.46189,444.33619 299.63009,375.0459 299.63048,337.02283 L 299.63048,337.02283 z"
+       id="text2387"
+       inkscape:export-filename="C:\Users\Stinson\Documents\Cricut\Lea Created\angel_TuJs.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

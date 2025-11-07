@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg3303"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="monogramgifta-M.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3309" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="350"
+     inkscape:cy="520"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="640"
+     inkscape:window-height="713"
+     inkscape:window-x="54"
+     inkscape:window-y="40" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 322.45165,343.64888 C 317.82305,360.91608 288.47105,358.35668 291.11485,377.90138 C 300.11045,421.46497 293.57965,466.35661 289.95315,510.07645 C 305.87355,516.44847 310.51945,511.17513 320.60935,531.6077 C 333.69275,526.27454 348.42425,529.6488 360.42185,536.13895 C 371.64295,527.66711 387.12555,527.02893 399.95315,531.70145 C 401.73125,519.56763 415.13585,515.14187 424.60935,510.20145 C 431.69185,504.96903 428.28225,494.62329 426.54685,487.51395 C 421.34665,447.17166 425.73745,406.45458 430.04685,366.23268 C 415.64305,364.76028 406.39615,352.59968 395.70315,344.42018 C 383.54025,350.52928 369.85065,345.42808 358.57815,340.01398 C 347.15875,348.89108 335.35215,348.02518 322.45165,343.64888 z"
+       id="path3201"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+</svg>

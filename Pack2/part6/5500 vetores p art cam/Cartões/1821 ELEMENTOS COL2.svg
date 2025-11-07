@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="392.4375"
+   height="779.5625"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.0 r9654"
+   version="1.0"
+   sodipodi:docname="PDC Door Hanger 6-8-2010.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2493"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="262.97379"
+     inkscape:cy="560.62988"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1362"
+     inkscape:window-height="706"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Creation Layer"
+     transform="translate(-85.21875,-65.21875)">
+    <path
+       style="fill:#786721;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.48597622;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 281.4501,65.957273 c -61.14233,0 -110.79223,37.201467 -110.79224,83.015007 0,7.53585 1.3801,14.79927 3.89578,21.74095 -30.43454,20.25344 -49.45743,49.00049 -49.45743,80.92716 0,2.96476 0.15309,5.89894 0.47509,8.80531 -23.38655,10.06139 -39.622955,32.46536 -39.622955,58.64156 l 0,460.64484 c 0,35.63416 30.021415,64.31508 67.321015,64.31508 l 256.31396,0 c 37.29961,0 67.32099,-28.68094 67.32102,-64.31508 l 0,-460.64484 c 0,-26.17621 -16.23641,-48.58017 -39.62296,-58.64156 0.322,-2.90637 0.4751,-5.84055 0.4751,-8.80531 0,-31.91874 -19.03612,-60.62912 -49.45743,-80.88177 2.52755,-6.95686 3.89578,-14.2321 3.89578,-21.78634 0,-45.81354 -49.6024,-83.015007 -110.74473,-83.015007 z m -0.0475,56.009037 c 36.56551,0 66.2758,27.44119 66.2758,61.22868 2e-5,22.37127 -13.04333,41.92709 -32.44901,52.60492 4.03801,11.16257 6.36628,24.41264 6.36628,38.67075 -2e-5,39.51418 -17.96648,71.57719 -40.14556,71.57719 -22.1791,-10e-6 -40.19307,-32.06301 -40.19307,-71.57719 0,-14.25811 2.32825,-27.50818 6.36628,-38.67075 -19.4057,-10.67783 -32.44902,-30.23365 -32.44902,-52.60492 -10e-6,-33.78749 29.66278,-61.22868 66.2283,-61.22868 z"
+       id="rect3858"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

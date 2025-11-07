@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="721"
+   height="541"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="PDC Swing Card Template.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2830" />
+    <inkscape:perspective
+       id="perspective2446"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2926" />
+    <inkscape:perspective
+       id="perspective2924"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.59748199"
+     inkscape:cx="271.05387"
+     inkscape:cy="216.71464"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Swing Card Template"
+     style="display:inline"
+     transform="translate(-32.40625,-33.8125)">
+    <path
+       style="fill:#a02c5a;fill-opacity:1;stroke:#000000"
+       d="m 32.90625,34.3125 0,540 720,0 0,-540 -720,0 z m 293.125,7.78125 1,0 0.0312,11.875 -1,0 -0.0312,-11.875 z m 132.375,0 1,0 0.0312,11.875 -1,0 -0.0312,-11.875 z m -132.3125,23.75 0.96875,0 0.0312,11.875 -0.96875,0 -0.0312,-11.875 z m 132.375,0 0.96875,0 0.0312,11.875 -0.96875,0 -0.0312,-11.875 z m -131.34375,23.75 0.0312,11.90625 -1,0 -0.0312,-11.875 1,-0.03125 z m 132.375,0 0.0312,11.90625 -1,0 -0.0312,-11.875 1,-0.03125 z m -133.3125,23.78125 1,0 0.0312,11.875 -1,0 -0.0312,-11.875 z m 132.375,0 1,0 0.0312,11.875 -1,0 -0.0312,-11.875 z M 180,153.90625 c 177.19223,-0.0959 182.66521,1.0625 1.84375,1.0625 l 0,296.5 c 180.6497,-0.0709 175.51518,1.09375 -1.71875,1.09375 l 0,-1.09375 0.0625,0 0,-296.5 -0.1875,0 0,-1.0625 z m 426.03125,0.15625 0,0.1875 0.28125,0 0,297.125 0,0.0937 0,1 c -175.75311,0.0947 -180.68255,-1.09375 -1.65625,-1.09375 l 0,-296.1875 c -178.92663,0.0757 -174.84842,-1.125 1.375,-1.125 z M 327,469.78125 l 1,0 0.0312,11.875 -1,0 -0.0312,-11.875 z m 132.375,0 1,0 0.0312,11.875 -1,0 -0.0312,-11.875 z m -132.3125,23.75 1,0 0.0312,11.875 -1,0 -0.0312,-11.875 z m 132.375,0 1,0 0.0312,11.875 -1,0 -0.0312,-11.875 z m -132.3125,23.75 0.96875,0 0.0312,11.875 -0.96875,0 -0.0312,-11.875 z m 132.375,0 0.96875,0 0.0312,11.875 -0.96875,0 -0.0312,-11.875 z m -132.3125,23.78125 0.96875,0 0.0312,11.875 -1,0 0,-11.875 z m 132.375,0 0.96875,0 0.0312,11.875 -1,0 0,-11.875 z"
+       id="rect2500"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Inside Layers"
+     style="display:inline"
+     transform="translate(-32.40625,-33.8125)" />
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Make The Cut! -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   mtc_dpi="90"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.47pre4 "
+   width="407.50766"
+   height="507.98279"
+   sodipodi:docname="PDC TH Troquel Shape 5-8-2011.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective12" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="483"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.22425739"
+     inkscape:cx="371.19114"
+     inkscape:cy="-18.164253"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     label="Default Layer"
+     id="Default Layer"
+     transform="translate(-0.85610456,-0.03405607)">
+    <path
+       label="Pixel Trace (139)"
+       id="Pixel Trace (139)"
+       d="m 36.4543,504.659 c -6.2337,-2.08 -6.5754,-2.725 -7.1475,-13.488 C 28.6501,478.814 25.6687,475.989 16.7592,479.285 9.73783,481.883 0,476.504 1.5133,470.865 2.14733,468.501 2.67869,392.485 2.69382,301.939 l 0.02746,-164.629 12.98922,0 12.9892,0 0.604,-11.364 0.604,-11.365 12.9151,-0.215 C 55.3287,114.159 55.7991,113.96 57.6682,108.11 69.7333,70.3465 87.3438,47.0777 119.679,26.176 148.533,7.5242 164.287,2.45903 198.06,0.973835 220.206,0 225.291,0.424175 240.35,4.50148 289.892,17.9151 325.081,48.3893 344.161,94.4051 c 3.126,7.5379 6.532,14.8379 7.57,16.2229 1.134,1.514 6.601,2.517 13.722,2.517 l 11.836,0 0,11.076 0,11.076 13.153,0 c 8.763,0 13.414,0.84 13.936,2.517 0.43,1.384 1.388,74.108 2.128,161.608 1.531,180.958 1.486,174.384 1.203,177.645 -0.147,1.684 -4.129,2.311 -12.799,2.014 l -12.586,-0.43 -0.597,12.48 c -0.663,13.874 -1.788,14.923 -15.794,14.728 -4.276,-0.06 -22.048,0.142 -39.492,0.448 -17.445,0.306 -31.718,-0.181 -31.718,-1.082 0,-0.902 -0.783,-1.155 -1.74,-0.564 -0.957,0.592 -51.296,1.626 -111.864,2.298 -90.1128,1.001 -110.7249,0.736 -113.4333,-1.46 -1.8357,-1.488 -2.6912,-1.651 -1.9209,-0.366 1.7906,2.988 -19.9921,2.636 -29.3105,-0.474 z"
+       style="fill:#00008b;stroke:#000045;stroke-linejoin:round" />
+  </g>
+</svg>
