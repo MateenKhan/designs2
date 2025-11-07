@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="744.09448819" height="1052.3622047" id="svg2931" sodipodi:version="0.32" inkscape:version="0.46" sodipodi:docname="heart card.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs id="defs2933">
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective2939"/>
+    <inkscape:perspective id="perspective2960" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 526.18109 : 1" sodipodi:type="inkscape:persp3d"/>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" objecttolerance="10" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.35" inkscape:cx="55.056895" inkscape:cy="697.9325" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1440" inkscape:window-height="840" inkscape:window-x="0" inkscape:window-y="26"/>
+  <metadata id="metadata2936">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <path style="fill:#000000" d="M 81.4375 55.21875 L 81.4375 519.5 L 195.03125 519.5 C 162.31106 535.35785 134.85188 569.54022 123.59375 608.5625 C 120.28715 620.02374 119.28204 631.79341 119.4375 656.8125 C 119.67844 695.59136 124.54791 714.44913 143.53125 749.90625 C 157.37742 775.76809 159.26731 777.88733 265.84375 885.9375 C 313.17419 933.92232 353.33219 975.15427 355.09375 977.5625 C 356.85532 979.97077 360.186 981.78575 362.46875 981.625 C 364.75143 981.46424 377.63394 970.03802 391.125 956.21875 C 404.61598 942.39946 444.45803 901.82538 479.65625 866.0625 C 563.64744 780.72408 568.94071 774.79831 581 752.4375 C 613.75614 691.69998 616.50979 628.87979 588.75 575.84375 C 577.15845 553.69769 553.11574 530.36001 530.84375 519.5 L 645.71875 519.5 L 645.71875 55.21875 L 81.4375 55.21875 z M 290.71875 519.5 L 435.15625 519.5 C 409.99963 531.82662 384.63122 557.51041 372.71875 582.84375 C 368.00049 592.87776 363.61151 601.06544 362.9375 601.03125 C 362.26344 600.99715 357.37162 592.24388 352.09375 581.59375 C 339.16833 555.51164 315.6713 531.76372 290.71875 519.5 z " id="path3012"/>
+  </g>
+</svg>

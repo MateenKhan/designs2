@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="rectangle box top and bottom closure.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="6.1230318e-14 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.51028059"
+     inkscape:cx="372.04724"
+     inkscape:cy="361.66599"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 187.125 142.375 C 166.55745 142.375 150 158.93246 150 179.5 L 150 192.6875 C 150 196.0488 150.45155 199.28265 151.28125 202.375 L 150 202.375 L 150 352.375 L 140 352.375 L 140 232.375 L 0 232.375 L 0 352.375 L 0 373.90625 L 0 1026.875 L 0 1052.375 L 0 1172.375 L 140 1172.375 L 140 1052.375 L 150 1052.375 L 150 1202.375 L 151.25 1202.375 C 150.42563 1205.4581 150 1208.7124 150 1212.0625 L 150 1225.25 C 150 1245.8175 166.55746 1262.375 187.125 1262.375 L 362.875 1262.375 C 383.44255 1262.375 400 1245.8176 400 1225.25 L 400 1212.0625 C 400 1208.7124 399.57437 1205.4581 398.75 1202.375 L 400 1202.375 L 400 1052.375 L 410 1052.375 L 410 1172.375 L 550 1172.375 L 550 1052.375 L 800 1052.375 L 800 1042.375 L 840 1042.375 L 840 362.375 L 800 362.375 L 800 352.375 L 550 352.375 L 550 232.375 L 410 232.375 L 410 352.375 L 400 352.375 L 400 202.375 L 398.71875 202.375 C 399.54845 199.28265 400 196.0488 400 192.6875 L 400 179.5 C 400 158.93245 383.44256 142.375 362.875 142.375 L 187.125 142.375 z M 170 200.875 L 190 200.875 L 190 203.875 L 170 203.875 L 170 200.875 z M 360 200.875 L 380 200.875 L 380 203.875 L 360 203.875 L 360 200.875 z M 148.5 397.375 L 151.5 397.375 L 151.5 427.375 L 148.5 427.375 L 148.5 397.375 z M 398.5 397.375 L 401.5 397.375 L 401.5 427.375 L 398.5 427.375 L 398.5 397.375 z M 548.5 397.375 L 551.5 397.375 L 551.5 427.375 L 548.5 427.375 L 548.5 397.375 z M 798.5 402.375 L 801.5 402.375 L 801.5 432.375 L 798.5 432.375 L 798.5 402.375 z M 798.5 987.375 L 801.5 987.375 L 801.5 1017.375 L 798.5 1017.375 L 798.5 987.375 z M 148.5 997.375 L 151.5 997.375 L 151.5 1027.375 L 148.5 1027.375 L 148.5 997.375 z M 398.5 997.375 L 401.5 997.375 L 401.5 1027.375 L 398.5 1027.375 L 398.5 997.375 z M 548.5 997.375 L 551.5 997.375 L 551.5 1027.375 L 548.5 1027.375 L 548.5 997.375 z M 170 1197.875 L 190 1197.875 L 190 1200.875 L 170 1200.875 L 170 1197.875 z M 360 1197.875 L 380 1197.875 L 380 1200.875 L 360 1200.875 L 360 1197.875 z "
+       id="rect2383" />
+  </g>
+</svg>

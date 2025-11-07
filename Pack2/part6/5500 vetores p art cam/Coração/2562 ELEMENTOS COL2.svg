@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1080"
+   height="1080"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="c utieheart.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2495"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2634"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000"
+       d="M 540.48844,870.9776 C 347.07751,771.11055 203.8176,622.6426 141.03075,456.99791 C 115.01678,388.36773 106.96391,345.47369 109.58833,289.5183 C 111.53209,248.07486 113.54101,239.39654 128.27711,208.78449 C 155.3478,152.54917 203.65815,120.84739 261.98621,121.0431 C 324.11126,121.25152 373.24333,147.98298 442.96974,219.51138 C 497.38861,275.33664 530.84565,324.31619 566.65468,400.58042 C 590.74902,451.89533 601.0597,468.75157 608.35379,468.75157 C 613.21858,468.75157 633.22941,428.22298 647.25865,389.95621 C 690.32692,272.48121 747.08554,208.22351 822.20203,191.89888 C 843.8372,187.19705 849.09421,187.69878 867.99475,196.26945 C 911.69088,216.08393 932.2235,246.32807 944.6192,309.13603 C 963.9628,407.14775 929.2561,532.39746 848.31518,656.678 C 811.63517,712.99822 790.85974,738.13791 718.42153,813.85785 C 658.92585,876.04893 627.46337,901.2857 609.4258,901.2857 C 603.79372,901.2857 572.77189,887.64704 540.48844,870.9776 z M 615.43477,820.18554 C 641.58951,808.66706 695.11579,739.9153 766.76747,625.80659 C 831.52528,522.67657 859.58115,458.90323 859.58115,414.83313 C 859.58115,370.17148 831.77691,364.32292 770.28536,396.04986 C 730.48691,416.58414 652.32913,482.91221 626.42777,518.1337 C 614.11186,534.88124 604.2193,543.99548 599.35663,543.07488 C 595.14205,542.277 573.89382,514.12064 552.13834,480.50521 C 484.97155,376.72273 432.70448,332.40928 377.46129,332.40928 C 349.3067,332.40928 340.69029,339.02912 330.44087,368.53434 C 321.44988,394.41704 322.43012,428.40281 333.47518,473.73328 C 352.14291,550.34847 389.9366,617.31998 453.12821,685.76198 C 499.39072,735.86823 592.3019,826.06236 597.65511,826.06236 C 600.09453,826.06236 608.09538,823.4178 615.43477,820.18554 z"
+       id="path2640" />
+  </g>
+</svg>

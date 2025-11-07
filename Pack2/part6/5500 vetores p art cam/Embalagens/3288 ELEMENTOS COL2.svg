@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2211"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   width="653"
+   height="323"
+   version="1.0"
+   sodipodi:docbase="C:\scal files\toconvert"
+   sodipodi:docname="egg holder.jpg.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2216">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2214" />
+  <sodipodi:namedview
+     inkscape:window-height="579"
+     inkscape:window-width="748"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.0168453"
+     inkscape:cx="326.5"
+     inkscape:cy="161.5"
+     inkscape:window-x="44"
+     inkscape:window-y="44"
+     inkscape:current-layer="svg2211" />
+  <image
+     xlink:href="egg holder.jpg"
+     sodipodi:absref="C:\scal files\toconvert\egg holder.jpg"
+     width="653"
+     height="323"
+     id="image2218"
+     x="0"
+     y="0" />
+  <path
+     style="fill:#000000"
+     d="M 77,281.01877 C 77,269.68842 77,258.35806 77,247.02771 C 55.5,246.85181 34,246.6759 12.5,246.5 C 12.34895,214.66667 12.1979,182.83333 12.04685,151 C 34.364567,151 56.682283,151 79,151 C 78.130659,136.50063 81.714545,121.67581 85.168373,109.04535 C 90.969895,96.336502 99.057478,83.495098 110.22507,73.004198 C 120.40924,63.900859 131.86852,56.987183 144.5,52.638374 C 158.82749,46.714096 179.58699,46.519149 197.03618,49.043276 C 205.83119,52.028897 214.25371,54.399884 222.87112,58.94956 C 232.21863,65.151829 242.72512,71.359786 249.42083,81.620537 C 258.961,90.158154 265.2562,104.22542 268.88453,115.92863 C 277.81324,124.7963 264.85459,152.31105 280.73215,150.53337 C 314.65477,150.69474 348.57738,150.85611 382.5,151.01749 C 382.5862,116.25155 381.51055,81.453673 382.70131,46.712637 C 387.47297,36.2923 398.70743,27.810957 409.70625,25.634619 C 420.55123,20.603837 436.28579,17.150426 450.34119,15.944045 C 488.53828,13.633156 530.73179,12.472068 564.50726,31.988255 C 579.72455,39.404949 578.65011,58.97187 577.96018,74.276321 C 578.03283,99.850799 577.98706,125.42544 578,151 C 600.13848,151.14198 622.29911,150.59593 644.41821,151.60699 C 647.65368,181.23904 645.32644,211.70251 646,241.69302 C 647.58041,252.05676 631.61968,244.87936 624.95699,247 C 609.31365,247 593.67031,247 578.02698,247 C 577.85132,269.16667 577.67566,291.33333 577.5,313.5 C 512.5,313.5 447.5,313.5 382.5,313.5 C 382.32434,291.33333 382.14869,269.16667 381.97305,247 C 345.65757,247 309.34209,247 273.02661,247 C 272.85107,269.5 272.67554,292 272.5,314.5 C 207.33333,314.66994 142.16667,314.83989 77,315.00986 C 77,303.67949 77,292.34913 77,281.01877 z M 443.53989,135.45766 C 473.47492,129.44454 485.55479,87.108766 462.08785,66.909721 C 440.43822,43.753133 396.976,57.772424 392.89607,89.260676 C 387.32353,117.17857 416.17294,143.69177 443.53989,135.45766 z M 537.53992,135.45766 C 567.47494,129.44452 579.55476,87.108767 556.08785,66.909721 C 534.62934,43.980952 492.01094,57.434941 487.00506,88.318925 C 480.62798,116.32068 509.90605,143.81721 537.53992,135.45766 z "
+     id="path2220" />
+</svg>

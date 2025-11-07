@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1080"
+   height="1080"
+   id="svg2516"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="crown_#1.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2518">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 372.04724 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1052.3622 : 372.04724 : 1"
+       inkscape:persp3d-origin="526.18109 : 248.03149 : 1"
+       id="perspective2525" />
+    <inkscape:perspective
+       id="perspective3166"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.30699633"
+     inkscape:cx="230.87401"
+     inkscape:cy="459.71475"
+     inkscape:current-layer="layer2"
+     id="namedview2520"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1010"
+     inkscape:window-height="727"
+     inkscape:window-x="-9"
+     inkscape:window-y="29" />
+  <metadata
+     id="metadata2522">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <image
+       style="opacity:1;display:inline"
+       y="-53.802746"
+       x="-88.918533"
+       id="image2504"
+       height="1187.7018"
+       width="1257.621"
+       sodipodi:absref="C:\Users\Stinson\Documents\Cricut\cricutmatt.jpg"
+       xlink:href="C:\Users\Stinson\Documents\Cricut\cricutmatt.jpg" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="new">
+    <path
+       style="fill:#d4aa00;fill-opacity:1"
+       d="M 225.92111,829.2845 C 225.92111,819.86057 205.00398,768.95154 179.4385,716.15328 C 140.67947,636.10715 119.71368,607.20692 53.259299,542.22159 L -26.437379,464.28674 L 20.619952,464.28674 C 78.953044,464.28674 127.36115,492.3659 149.51548,539.05254 C 165.69314,573.14448 165.87586,573.21706 196.75793,557.81105 C 220.87745,545.77864 233.17003,544.81012 252.12892,553.4484 C 298.15996,574.42157 311.94447,650.13104 267.62167,638.5404 C 241.10331,631.60569 220.83689,667.28734 235.61266,694.89624 C 257.23916,735.30554 307.37294,729.88687 321.42225,685.62154 C 326.31487,670.20628 331.48158,669.04304 355.23461,678.00882 C 416.18141,701.01369 465.41349,657.97772 437.6006,606.0089 C 424.29764,581.15212 384.92592,578.0915 366.35313,600.47044 C 349.14513,621.20455 335.50481,605.97847 334.3319,564.72688 C 333.20339,525.03435 356.64921,504.51118 403.12313,504.51118 C 434.53321,504.51118 435.38684,503.43474 427.04341,474.34286 C 417.5419,441.21361 427.41864,395.08214 452.06749,357.46378 C 473.38789,324.92462 479.99851,327.01302 506.83705,374.76639 C 524.64373,406.44855 528.84444,426.20957 525.00837,460.24335 C 520.02734,504.43644 520.07365,504.51118 552.42123,504.51118 C 604.87531,504.51118 636.5111,560.43174 608.812,604.18916 C 601.21317,616.19322 597.23637,615.80425 583.10714,601.67511 C 550.0999,568.66771 507.49231,587.58126 507.49231,635.24061 C 507.49231,649.62088 512.9226,666.81681 519.55948,673.45382 C 534.16239,688.05687 594.34693,689.50707 603.02509,675.46507 C 613.57864,658.38929 628.1655,664.34913 628.1655,685.73677 C 628.1655,697.65229 638.55238,710.79719 653.26505,717.50064 C 674.00384,726.94998 681.86555,725.76825 698.5174,710.69841 C 709.60148,700.66737 718.67055,684.66508 718.67055,675.13779 C 718.67055,652.03969 692.63969,631.5011 672.94416,639.05903 C 660.00549,644.02406 657.69656,638.29886 660.2458,607.57312 C 662.73339,577.59117 669.21531,567.22631 692.39026,556.16992 C 717.54892,544.16715 725.90909,544.46252 755.10616,558.3856 C 788.27893,574.20463 788.889,574.07103 795.01976,549.64524 C 798.44376,536.00254 816.76277,511.21576 835.72864,494.56354 C 865.61122,468.32634 877.88005,464.32924 927.68461,464.60533 L 985.15728,464.92389 L 954.98917,486.43292 C 865.34213,550.34828 766.89329,690.85383 729.1785,808.70855 L 717.1106,846.41894 L 471.5158,846.41894 C 246.85249,846.41894 225.92111,844.95862 225.92111,829.2845 z"
+       id="path3176"
+       inkscape:export-filename="C:\Users\Stinson\Documents\Cricut\Lea Created\crown_#1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#d4aa00"
+       d="M 247.34416,929.1645 C 247.34416,927.61952 242.53075,877.35057 240.34346,868.55013 C 240.17707,867.88071 474.75203,866.29156 474.17378,866.29156 L 713.57806,868.39137 L 707.56113,928.72795 L 476.02598,928.72795 C 478.2993,928.72795 246.63082,929.64693 247.34416,929.1645 z"
+       id="path3310"
+       sodipodi:nodetypes="csccccc"
+       inkscape:export-filename="C:\Users\Stinson\Documents\Cricut\Lea Created\crown_#1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

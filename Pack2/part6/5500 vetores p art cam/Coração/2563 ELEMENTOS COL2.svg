@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1080"
+   height="1080"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="cuuutieheart1.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="C:\Users\Jeanne\Desktop\wonkyyflwr.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2829"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000"
+       d="M 510.90504,936.1372 C 502.48272,892.22874 479.41851,854.23324 442.90272,824.11154 C 416.0966,801.99928 388.94703,786.38264 321.33167,754.18296 C 296.34152,742.2822 267.42743,727.81436 257.07813,722.0322 C 195.00355,687.35113 163.99917,651.67451 152.30527,601.4705 C 148.2096,583.88701 147.88578,543.75461 151.66068,521.58408 C 156.50132,493.15428 168.00563,453.80651 179.99483,424.67376 C 187.99175,405.24196 222.42242,373.56068 249.67365,360.559 C 268.00066,351.81511 280.89035,348.87965 300.76243,348.92415 C 333.06338,348.9965 359.76398,360.03025 392.42715,386.80365 C 452.37269,435.93992 507.17086,542.07954 511.08643,616.63714 L 511.97061,633.47326 L 515.02626,623.65219 C 516.70686,618.25061 523.54643,594.57481 530.22531,571.03932 C 559.25695,468.73567 582.08058,403.68607 611.44939,339.54268 C 644.79793,266.70735 676.70836,222.28191 720.47839,187.75334 C 758.33945,157.88617 798.62875,142.62271 839.40226,142.69945 C 898.39417,142.8105 947.55068,175.37036 992.44626,244.07142 C 1010.0361,270.98817 1019.6555,293.95884 1025.6701,323.40807 C 1033.8585,363.50187 1033.8632,414.18506 1025.6828,461.59913 C 1015.041,523.28032 989.26166,583.22227 960.04963,614.20929 C 938.12473,637.4664 897.64104,666.25898 860.66436,684.89349 C 834.88549,697.88486 813.47773,707.28605 767.81987,725.66606 C 715.97359,746.53727 698.40128,754.11518 675.17336,765.61911 C 592.65037,806.48967 545.94247,856.12415 519.3305,931.22667 L 513.25303,948.37804 L 510.90504,936.1372 z"
+       id="path2835" />
+  </g>
+</svg>

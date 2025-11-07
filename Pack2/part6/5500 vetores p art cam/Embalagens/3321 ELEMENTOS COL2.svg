@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2211"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   width="653"
+   height="323"
+   version="1.0"
+   sodipodi:docbase="C:\scal files\toconvert"
+   sodipodi:docname="businesscard holder.jpg.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2216">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2214" />
+  <sodipodi:namedview
+     inkscape:window-height="579"
+     inkscape:window-width="748"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.0168453"
+     inkscape:cx="326.5"
+     inkscape:cy="161.5"
+     inkscape:window-x="154"
+     inkscape:window-y="154"
+     inkscape:current-layer="svg2211" />
+  <image
+     xlink:href="businesscard holder.jpg"
+     sodipodi:absref="C:\scal files\toconvert\businesscard holder.jpg"
+     width="653"
+     height="323"
+     id="image2218"
+     x="0"
+     y="0" />
+  <path
+     style="fill:#000000"
+     d="M 77,281 C 77,269.66667 77,258.33333 77,247 C 55.333333,247 33.666667,247 12,247 C 12,215 12,183 12,151 C 34.333333,151 56.666667,151 79,151 C 76.142528,109.91695 100.91859,68.904383 139.59406,53.866584 C 173.64052,40.356843 216.3857,47.059241 243.05841,73.679635 C 264.65786,92.904771 273.99184,122.21247 273.95047,150.5 C 309.96698,150.6724 345.98349,150.84481 382,151.01723 C 382,115.98302 382,80.948809 382,45.9146 C 398.6633,21.618326 431.26601,17.366873 458.46835,14.995893 C 496.07952,13.789557 538.04605,12.579444 569.90737,35.79913 C 582.83999,45.011721 576.52765,61.254778 578,74.473064 C 578,99.982043 578,125.49102 578,151 C 600.41028,151.05147 622.82095,151.23924 645.23107,151.12473 C 646.68681,183.05189 646.12322,215.04346 646.5,247.0005 C 623.66667,247.00033 600.83333,247.00016 578,247 C 578,269.33333 578,291.66667 578,314 C 512.66667,314 447.33333,314 382,314 C 382,291.66667 382,269.33333 382,247 C 345.66667,247 309.33333,247 273,247 C 273,269.66667 273,292.33333 273,315 C 207.66667,315 142.33333,315 77,315 C 77,303.66667 77,292.33333 77,281 z "
+     id="path2220" />
+</svg>

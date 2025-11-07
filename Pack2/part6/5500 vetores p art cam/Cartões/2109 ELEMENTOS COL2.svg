@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1080"
+   height="1080"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="wonkyedgecard098.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2386"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000"
+       d="M 47.176403,708.8623 L 47.428573,445.01039 L 483.39726,445.01039 L 919.36594,445.01039 L 921.34204,450.82852 C 922.84914,455.26547 923.33114,459.5471 923.37264,468.8647 C 923.42094,479.71892 923.13194,481.81523 920.78384,487.64456 L 918.14074,494.20635 L 926.41214,498.97564 C 935.00144,503.92821 942.94414,511.89512 948.24274,520.87286 C 954.94764,532.23344 957.88024,551.34931 954.92314,564.41897 C 953.00804,572.88314 946.25544,586.24779 941.16714,591.64461 C 936.91104,596.15886 936.63214,596.7509 938.42854,597.45968 C 956.65624,604.65163 971.77234,624.28223 974.99984,644.95311 C 978.10844,664.863 967.85004,689.6763 951.58504,701.5897 C 948.52684,703.8297 946.00654,705.9242 945.98434,706.2442 C 945.96214,706.5642 947.82794,708.0784 950.13064,709.609 C 968.10724,721.5589 978.79444,747.9381 974.46324,769.6693 C 970.97954,787.1488 960.43724,802.5662 946.77374,810.1634 C 942.73394,812.4096 938.57904,814.5686 937.54074,814.9612 C 935.91864,815.5745 936.51904,816.7247 941.80694,823.1324 C 961.36934,846.8381 960.72384,880.6318 940.28354,902.8814 C 934.14584,909.5624 921.76294,918.0239 918.12344,918.0239 C 917.37464,918.0239 916.93144,918.4166 917.13864,918.8966 C 925.14234,937.4385 925.97474,950.9731 920.14424,967.7645 L 918.42854,972.7056 L 482.6764,972.7099 L 46.924233,972.7143 L 47.176403,708.8623 z"
+       id="path2392" />
+  </g>
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2440"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   width="297"
+   height="450"
+   version="1.0"
+   sodipodi:docname="winebottlecard.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2445">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2443">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2447" />
+    <inkscape:perspective
+       id="perspective2460"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="669"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="1.0266667"
+     inkscape:cx="148.5"
+     inkscape:cy="225"
+     inkscape:window-x="184"
+     inkscape:window-y="95"
+     inkscape:current-layer="svg2440" />
+  <path
+     style="fill:#000000"
+     d="M 34.15625 29.125 C 16.24225 29.125 14.83973 29.270441 11.6875 31.40625 L 8.34375 33.6875 L 8.21875 83.40625 C 8.09018 141.58253 9.1164401 137.72886 -8.5 146.4375 C -20.87356 152.55434 -35.318689 166.16236 -36.0625 172.4375 C -36.30258 174.46296 -37.160379 180.85001 -38 186.625 C -39.69001 198.24909 -39.85659 276.00102 -38.34375 363.125 C -37.22998 427.26686 -37.71917 424.72871 -25.1875 429.03125 C -18.7752 431.23281 -9.4045498 432.74489 5.375 433.96875 C 7.81029 434.17041 20.459258 434.41759 33.46875 434.5 C 69.84335 434.73041 91.957185 432.31038 98.84375 427.34375 C 101.17412 425.66307 102.73212 424.41539 103.75 418.71875 C 104.76789 424.40978 106.29552 425.66371 108.625 427.34375 C 115.51157 432.31038 137.6254 434.73041 174 434.5 C 187.00949 434.41759 199.65846 434.17041 202.09375 433.96875 C 216.87331 432.74489 226.24395 431.23281 232.65625 429.03125 C 245.18792 424.72871 244.66748 427.26686 245.78125 363.125 C 247.29409 276.00102 247.15876 198.24909 245.46875 186.625 C 244.62914 180.85001 243.77133 174.46296 243.53125 172.4375 C 242.78744 166.16236 228.34231 152.55434 215.96875 146.4375 C 198.35231 137.72886 199.37857 141.58253 199.25 83.40625 L 199.125 33.6875 L 195.78125 31.40625 C 192.62903 29.27044 191.2265 29.125 173.3125 29.125 C 155.4831 29.125 153.99693 29.28095 150.90625 31.375 L 147.59375 33.625 L 148.03125 83.15625 C 148.46616 131.87525 148.42224 132.72258 145.34375 137.03125 C 143.44817 139.6843 139.81972 142.4824 136.15625 144.125 C 127.35244 148.07239 117.70167 154.33831 114.03125 158.5 C 112.27104 160.49581 109.72351 163.025 108.34375 164.125 C 106.34314 165.71996 104.45099 168.55695 103.71875 170.625 C 102.98389 168.55791 101.12216 165.71721 99.125 164.125 C 97.745242 163.025 95.197708 160.49581 93.4375 158.5 C 89.76708 154.33831 80.116308 148.07239 71.3125 144.125 C 67.64903 142.4824 64.020568 139.6843 62.125 137.03125 C 59.04651 132.72258 59.002591 131.87525 59.4375 83.15625 L 59.875 33.625 L 56.5625 31.375 C 53.47182 29.28095 51.985649 29.125001 34.15625 29.125 z M 103.75 173 C 103.79344 173.03293 103.822 173.07156 103.875 173.09375 C 104.51024 173.35975 104.44518 175.2737 103.75 177.4375 C 103.05211 175.26997 102.95763 173.36012 103.59375 173.09375 C 103.65577 173.06778 103.70104 173.04061 103.75 173 z "
+     id="path2466" />
+</svg>

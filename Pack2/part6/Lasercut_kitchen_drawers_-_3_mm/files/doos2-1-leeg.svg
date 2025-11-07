@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="165.19975mm"
+   height="129.19987mm"
+   viewBox="0 0 165.19975 129.19987"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="doos2-1-leeg.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="-253.2447"
+     inkscape:cy="48.015306"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4487"
+       units="mm"
+       spacingx="3"
+       spacingy="3"
+       originx="273.09982"
+       originy="-125.90012" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(273.09982,-41.9)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="CUT">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 3.09982,0.100001 0,30.000236 -2.99982,0 0,17.999934 2.99982,0 0,29.99972 -2.99982,0 0,21.00027 2.99982,0 0,26.999899 27.00042,0 0,2.99982 35.99987,0 0,-2.99982 33.00005,0 0,2.99982 35.99987,0 0,-2.99982 29.99972,0 0,-26.999899 -2.9993,0 0,-21.00027 2.9993,0 0,-29.99972 -2.9993,0 0,-17.999934 2.9993,0 0,-30.000236 z"
+       id="path3372" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 82.59988,9.099969 a 11.999998,11.999998 0 0 1 12.0003,12.0003 11.999998,11.999998 0 0 1 -12.0003,11.999785 11.999998,11.999998 0 0 1 -11.99979,-11.999785 11.999998,11.999998 0 0 1 11.99979,-12.0003 z"
+       id="rect5765" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="engrave" />
+</svg>

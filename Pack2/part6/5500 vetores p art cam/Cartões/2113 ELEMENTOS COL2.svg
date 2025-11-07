@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Wyoming.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2390"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.74689115"
+     inkscape:cx="372.04724"
+     inkscape:cy="628.14504"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="1002"
+     inkscape:window-x="1276"
+     inkscape:window-y="92" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000"
+       d="M 34.848617,105.51178 C 30.838465,105.58233 27.455561,106.64131 26.629867,108.79303 C 25.949367,110.56625 26.855417,113.64148 28.661117,115.63678 C 31.551617,118.8307 31.816016,124.60187 30.723617,163.79303 C 30.041117,188.27649 28.983166,214.50264 28.379867,222.07428 C 27.428367,234.01554 27.736067,235.82428 30.692367,235.82428 C 33.756167,235.82428 33.969765,238.2496 32.817367,259.79303 C 30.336267,306.17483 22.244066,507.62417 18.129867,625.57428 L 16.817367,663.51178 L 26.536117,664.85553 C 31.882817,665.58838 47.828168,666.01945 61.973617,665.82428 C 94.6942,666.59087 127.37866,668.06492 160.09862,668.88678 C 283.15443,671.26638 406.16829,672.22956 529.25487,670.35553 C 549.49015,669.25143 575.7117,669.79535 592.47362,670.19928 C 594.15621,670.19928 596.91601,669.28666 598.59862,668.19928 C 608.53997,667.59536 619.05192,667.81323 629.16112,667.82428 C 658.95681,668.00663 736.88401,665.21576 738.12987,663.91803 C 738.55031,663.48006 737.63703,630.99089 736.09862,591.73053 C 729.55329,424.69423 718.90915,138.19457 718.91112,129.26178 L 718.91112,119.57428 C 676.739,120.1346 634.62807,122.21128 592.47362,123.54303 C 492.78801,124.90218 195.97455,124.49676 175.37987,122.98053 L 149.53612,122.01178 C 140.44241,121.71545 137.81131,120.89508 137.28612,118.16803 C 136.70087,115.12905 134.09995,114.74783 116.44237,115.26178 L 81.411117,115.51178 C 71.334547,115.51178 68.096944,114.74499 66.567367,112.01178 C 64.831807,108.91051 64.001267,108.81754 59.317367,111.32428 C 54.561197,113.86971 53.563337,113.74791 49.442367,109.94928 C 46.206642,106.96664 40.004526,105.42107 34.848617,105.51178 z"
+       id="path3268" />
+  </g>
+</svg>
