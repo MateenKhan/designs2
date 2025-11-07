@@ -1,0 +1,3 @@
+ wood files are for diode and co2 lasers, The settings are for a 10W diode laser, we recommend adjusting based on your laser power, lens size 300x300
+
+ metal files are for fiber optic lasers. The settings are for a 20W laser, we recommend adjusting based on your laser power, lens size 233x233
