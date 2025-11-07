@@ -1,0 +1,36 @@
+	
+
+		Wheel barrow planter (mdf)
+
+ Wheel 1pc. 1/2" x4" x 7" glue the 2 pcs together to make the wheel.
+	X is 7" Y is 4"
+
+ bottom 1pc. 1/2" x  12" x 7"
+	X is 12"
+
+ sides  1pc. 3/8" x 8  x 11 1/2" 
+	X is 11 1/2"
+	   
+
+
+ You also need to cut a pc of mdf 3/8" x 2" x 3 1/8" to slide in front slot
+
+ of sides.
+
+ To mount the wheel drill a 1/4" hole through the front forks and use a pc.
+
+ of 1/4" wood rod as an axle.
+
+ The Gcode is written for a 1/4" endmill. If you want to use any other size
+
+ bit I have enclosed the dxf files.
+
+ I don't take any responsibility for the files, I'm quite new to programming 
+ 
+ as you can tell.
+
+But have fun with them........Jim
+
+
+
+
