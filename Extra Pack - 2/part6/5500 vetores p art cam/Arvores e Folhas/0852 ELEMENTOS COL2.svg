@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2457"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   width="1181"
+   height="1800"
+   version="1.0"
+   sodipodi:docname="Tree Trunk.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2462">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2460">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2464" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="669"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.25666667"
+     inkscape:cx="590.5"
+     inkscape:cy="900"
+     inkscape:window-x="161"
+     inkscape:window-y="95"
+     inkscape:current-layer="svg2457" />
+  <image
+     xlink:href="Tree Trunk.jpg"
+     sodipodi:absref="C:\Users\Heather\Desktop\Tree Trunk.jpg"
+     width="1181"
+     height="1800"
+     id="image2466"
+     x="0"
+     y="0" />
+  <path
+     style="fill:#000000"
+     d="M 488,1213.1643 L 488,677.32853 L 366.51712,576.09648 C 299.70154,520.41885 244.77151,474.43932 244.4504,473.91974 C 243.94247,473.0979 280.57842,428 281.75399,428 C 281.99887,428 297.85958,441.05 317,457 C 336.14042,472.95 352.06964,486 352.39826,486 C 352.72688,486 363.34662,465.30208 375.99769,440.00462 L 398.99964,394.00924 L 412.40821,400.6918 L 425.81679,407.37437 L 401.40839,456.18318 C 387.98378,483.02803 377,505.44069 377,505.9891 C 377,506.5375 401.8625,527.70896 432.25,553.03678 L 487.5,599.08737 L 487.75246,399.54369 L 488.00491,200 L 562.50246,200 L 637,200 L 637,266.74305 L 637,333.48611 L 664.002,306.498 L 691.004,279.50989 L 712.24781,300.7537 L 733.49162,321.99751 L 698.99581,356.59534 C 677.81226,377.84154 665.46477,390.90843 667,390.45532 C 668.375,390.0495 700.67881,378.5911 738.78625,364.99221 C 798.61714,343.64116 808.1844,340.48756 808.89242,341.88348 C 810.41591,344.8871 818.2915,368.04257 817.89413,368.34985 C 817.67736,368.51748 777,383.07257 727.5,400.69451 L 637.5,432.73439 L 637.24576,546.8672 C 637.10593,609.64024 637.33093,660.99971 637.74576,660.99935 C 638.16059,660.99899 674.4796,632.21608 718.45466,597.03734 C 762.42973,561.8586 798.50112,533.17139 798.61332,533.288 C 800.23255,534.97084 825.99273,567.63987 825.98441,568 C 825.97807,568.275 807.10063,583.575 784.03455,602 L 742.09623,635.5 L 802.04811,635.75781 L 862,636.01561 L 862,650.50781 L 862,665 L 787.5,665 L 713,665 L 713,662.5 C 713,661.125 712.6625,660.00043 712.25,660.00095 C 711.55681,660.00183 645.94024,712.12037 639.75,717.58692 L 637,720.01543 L 637,1234.5077 L 637,1749 L 562.5,1749 L 488,1749 L 488,1213.1643 z"
+     id="path2468" />
+</svg>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="bird for i spy bag_mf.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2484"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.378959"
+     inkscape:cx="392.93636"
+     inkscape:cy="534.16835"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="750"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000"
+       d="M 353.13586,599.6918 C 355.15541,598.84798 358.79777,596.32326 361.22999,594.08132 C 365.42847,590.2113 365.97542,590.0035 372.04038,589.97418 C 386.8314,589.9027 402.55049,586.63258 413.92855,581.25999 C 422.44412,577.23904 424.29287,575.94028 431.81583,568.69412 C 440.46625,560.36198 446.02136,550.44845 448.41429,539.07285 C 451.18545,525.89923 450.16044,515.16262 444.27348,495.69928 C 441.34569,486.01946 440.77636,482.73617 441.11189,477.46663 C 441.45821,472.02783 441.97524,470.55693 444.47484,467.89925 C 446.09938,466.17197 448.89105,464.13312 450.67855,463.36848 C 455.55511,461.28242 454.85935,458.91433 448.37282,455.5207 C 445.31717,453.92204 439.57967,449.78759 435.62282,446.33303 C 424.92737,436.99527 419.32626,434.48457 409.42855,434.59144 C 399.61992,434.69735 391.95426,437.41237 384.66564,443.36196 C 375.97004,450.46004 370.92855,461.57563 370.92855,473.64978 C 370.92855,484.77925 367.13174,497.09373 360.50756,507.44899 C 352.24421,520.36669 349.67572,528.02817 345.40262,552.50506 C 341.74259,573.47021 339.12454,583.34475 335.2606,590.75778 C 331.72135,597.54791 331.14774,600.4822 333.17855,601.40863 C 335.46114,602.44991 349.40578,601.25033 353.13586,599.6918 z"
+       id="path2490"
+       sodipodi:nodetypes="cssssssssssssssssssc" />
+  </g>
+</svg>

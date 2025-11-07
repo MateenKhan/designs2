@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="382.80206"
+   height="639.50916"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="New document 17">
+  <defs
+     id="defs4">
+    <filter
+       id="filter2989"
+       inkscape:label="Canvas Bumps"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Canvas texture with an HSL sensitive height map"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur2991"
+         stdDeviation="2.3"
+         in="SourceAlpha"
+         result="result0" />
+      <feMorphology
+         id="feMorphology2993"
+         in="SourceAlpha"
+         radius="6.6"
+         result="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur2995"
+         stdDeviation="8.9"
+         in="result1" />
+      <feColorMatrix
+         id="feColorMatrix2997"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.3 0"
+         result="result91" />
+      <feComposite
+         id="feComposite2999"
+         in2="result91"
+         in="result0"
+         operator="out"
+         result="result2" />
+      <feGaussianBlur
+         id="feGaussianBlur3001"
+         stdDeviation="1.7"
+         result="result4" />
+      <feDiffuseLighting
+         id="feDiffuseLighting3003"
+         surfaceScale="10"
+         result="result92">
+        <feDistantLight
+           id="feDistantLight3005"
+           azimuth="225"
+           elevation="45" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend3007"
+         in2="SourceGraphic"
+         mode="multiply"
+         result="result93" />
+      <feComposite
+         id="feComposite3009"
+         in2="SourceAlpha"
+         operator="in"
+         result="result3" />
+      <feSpecularLighting
+         id="feSpecularLighting3011"
+         in="result4"
+         surfaceScale="5"
+         specularExponent="17.89999962"
+         result="result94">
+        <feDistantLight
+           id="feDistantLight3013"
+           azimuth="225"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite3015"
+         in2="result3"
+         operator="atop"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3017" />
+      <feTurbulence
+         id="feTurbulence3019"
+         type="turbulence"
+         result="result1"
+         numOctaves="7"
+         seed="300"
+         baseFrequency="0.2" />
+      <feDisplacementMap
+         id="feDisplacementMap3021"
+         in2="result1"
+         xChannelSelector="R"
+         result="result7"
+         scale="0"
+         yChannelSelector="A" />
+      <feBlend
+         id="feBlend3023"
+         in2="fbSourceGraphic"
+         in="result7"
+         mode="screen"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3025"
+         result="fbSourceGraphicAlpha"
+         values="1 0 0 -1 0 1 0 1 -1 0 1 0 0 -1 0 -0.8 -1 0 4 -2.5 " />
+      <feGaussianBlur
+         id="feGaussianBlur3027"
+         result="result0"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="0.5" />
+      <feSpecularLighting
+         id="feSpecularLighting3029"
+         result="result6"
+         surfaceScale="5"
+         specularConstant="1"
+         specularExponent="5">
+        <feDistantLight
+           id="feDistantLight3031"
+           azimuth="225"
+           elevation="35" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite3033"
+         in2="fbSourceGraphic"
+         k3="1"
+         k2="0.5"
+         operator="arithmetic"
+         result="result4"
+         k1="0"
+         k4="0" />
+      <feComposite
+         id="feComposite3035"
+         in2="fbSourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="365.86964"
+     inkscape:cy="192.58721"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="in"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-46.705012,-108.05334)">
+    <path
+       style="fill:#806600;stroke:#000000;stroke-width:2.02030516"
+       d="m 235.85123,745.40096 c 2.3301,1.93381 3.02235,-0.35123 4.12997,-13.63254 0.73187,-8.77565 3.07262,-29.91576 5.2017,-46.97799 3.69212,-29.58852 6.96233,-62.08912 9.1183,-90.62123 0.54576,-7.22259 1.97501,-25.47558 3.1761,-40.56221 1.20109,-15.0866 1.90578,-38.80965 1.56594,-52.71788 -0.68371,-27.98252 0.12809,-30.383 11.94414,-35.32222 3.57562,-1.49465 13.57613,-2.73974 22.22336,-2.76691 8.64725,-0.0271 19.6189,-0.94825 24.38149,-2.04685 10.04467,-2.31709 25.02426,-12.70421 39.64873,-27.49316 5.65449,-5.71809 12.55373,-11.04776 15.33165,-11.84374 2.77792,-0.79596 7.32362,-3.48923 10.10152,-5.98505 2.7779,-2.49581 7.9983,-6.22198 11.6007,-8.28036 3.7411,-2.13761 7.4199,-6.37548 8.5786,-9.88239 1.1158,-3.37694 5.2141,-10.61832 9.1074,-16.09195 5.2432,-7.37135 7.0788,-12.04039 7.0788,-18.00524 0,-4.89108 1.9347,-11.35448 4.9272,-16.46082 4.5096,-7.69512 4.877,-10.20008 4.3353,-29.55914 -0.3255,-11.63333 -1.6502,-23.12912 -2.9438,-25.54622 -1.2936,-2.41707 -2.1461,-7.09731 -1.8944,-10.40053 0.2588,-3.39567 -1.0422,-7.66318 -2.9935,-9.81929 -1.8981,-2.09742 -3.465,-5.56016 -3.482,-7.69499 -0.039,-4.92975 -2.0567,-7.86901 -6.5351,-9.52134 -1.9445,-0.71745 -3.5355,-3.23515 -3.5355,-5.59489 0,-2.35974 -1.8183,-6.60199 -4.0406,-9.42723 -2.2224,-2.82523 -4.0407,-6.72792 -4.0407,-8.6726 0,-1.94469 -2.1333,-4.93365 -4.7408,-6.64212 -2.6074,-1.70847 -5.8584,-5.8043 -7.2242,-9.10182 -1.6985,-4.10049 -4.33,-6.36483 -8.3257,-7.16396 -3.94821,-0.78964 -7.50912,-3.80896 -10.98384,-9.31328 -2.9213,-4.62765 -6.72342,-8.14482 -8.80469,-8.14482 -2.01471,0 -5.70288,-2.17124 -8.19596,-4.825 -2.49305,-2.65375 -6.06079,-4.44543 -7.9283,-3.98155 -1.86751,0.46388 -6.57745,-1.90842 -10.46654,-5.27179 -4.50754,-3.89824 -9.28851,-6.11695 -13.18752,-6.11997 -3.36407,-0.003 -8.13704,-1.42 -10.6066,-3.14976 -2.51677,-1.76281 -4.49015,-2.20676 -4.49015,-1.01015 0,1.17417 -0.82402,2.13486 -1.83116,2.13486 -1.00714,0 -1.32092,-1.95117 -0.69729,-4.33594 0.99009,-3.78611 0.45536,-4.20623 -4.21692,-3.31307 -3.08373,0.5895 -6.27052,-0.0853 -7.52154,-1.59272 -2.05208,-2.47259 -16.95943,-10.96132 -19.24956,-10.96132 -0.58694,0 -0.501,0.91611 0.19092,2.0358 0.69201,1.1197 -0.10142,3.39533 -1.76296,5.05696 -2.68135,2.68134 -3.16564,2.56598 -4.30558,-1.02565 -0.70632,-2.22574 -2.12954,-4.0468 -3.16264,-4.0468 -1.03309,0 -5.40042,-3.18198 -9.70516,-7.07107 -4.30475,-3.88909 -9.08035,-7.10556 -10.61242,-7.14772 -2.88348,-0.0793 -17.93789,-20.25994 -17.93789,-24.04594 0,-5.31512 -3.80961,-1.28189 -7.04173,7.45507 -3.90521,10.55638 -15.19144,28.65502 -17.92043,28.73726 -0.95078,0.0286 -4.33608,2.24609 -7.52293,4.92763 -3.23784,2.72448 -7.39729,4.45634 -9.42767,3.92539 -2.18593,-0.57164 -5.56683,1.10785 -8.48662,4.21583 -2.66924,2.84129 -5.98475,5.16599 -7.36775,5.16599 -1.38302,0 -5.08838,1.32765 -8.23413,2.95034 -3.14576,1.62268 -8.005,3.40439 -10.79829,3.95935 -3.02656,0.6013 -8.22266,5.13162 -12.85936,11.21166 -4.27935,5.61143 -9.94564,10.746 -12.59176,11.41013 -2.76537,0.69406 -6.69048,4.55141 -9.23093,9.07154 -2.43092,4.32519 -5.60393,7.86399 -7.05115,7.86399 -1.44723,0 -3.96085,3.18198 -5.585799,7.07107 -1.92854,4.61561 -4.30749,7.07107 -6.85082,7.07107 -4.89738,0 -7.5899,3.29445 -9.32306,11.40727 -0.74686,3.49608 -3.03466,7.8739 -5.08397,9.72852 -2.04932,1.85459 -4.30976,6.4835 -5.02321,10.28646 -0.71498,3.8112 -3.07157,7.86408 -5.25081,9.03038 -2.74303,1.46803 -3.95368,4.23434 -3.95368,9.03416 0,4.87742 -1.56968,8.37372 -5.3211,11.85224 -5.69197,5.27788 -9.76772,22.06888 -7.52546,31.00281 0.64677,2.5769 0.0476,6.04488 -1.33154,7.7066 -1.69642,2.04406 -2.00463,5.46634 -0.95286,10.58035 0.85503,4.15749 1.7735,12.55931 2.04104,18.67073 0.6692,15.28672 4.48505,29.20444 9.1693,33.44363 2.15634,1.95145 3.92062,4.81726 3.92062,6.36845 0,1.55119 3.11495,5.72867 6.92211,9.28332 4.04706,3.77864 7.80361,9.83682 9.04448,14.58601 1.49202,5.71034 3.99599,9.22977 8.43043,11.84926 3.46941,2.04943 7.6073,6.83586 9.19532,10.6365 3.196219,7.64964 7.669889,9.97786 23.107159,12.0257 8.02344,1.06434 12.44201,3.1538 19.39487,9.17144 4.95231,4.2862 10.63177,7.79308 12.62103,7.79308 1.98925,0 8.05814,2.36148 13.48644,5.24773 11.21185,5.96139 16.5222,5.78548 47.09802,-1.56024 19.93308,-4.78886 33.09502,-5.38802 37.52866,-1.70842 8.7852,7.29104 -2.07544,162.25313 -16.19188,231.02993 -2.77476,13.51893 -6.39222,27.56545 -8.03879,31.21444 -4.58995,10.17189 -4.04566,12.95103 1.99719,10.19771 3.72052,-1.69517 5.70349,-1.68265 7.79026,0.0493 l 0,-8e-5 z"
+       id="path9455"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

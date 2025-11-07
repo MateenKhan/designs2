@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1035"
+   height="495"
+   id="svg3086">
+  <defs
+     id="defs3088">
+    <filter
+       x="-0.25"
+       y="-0.25"
+       width="1.5"
+       height="1.5"
+       color-interpolation-filters="sRGB"
+       id="filter3217">
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="9.1"
+         in="SourceAlpha"
+         id="feGaussianBlur3219" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.445 0 "
+         type="matrix"
+         result="bluralpha"
+         id="feColorMatrix3221" />
+      <feOffset
+         result="offsetBlur"
+         dy="15.3"
+         dx="13.3"
+         in="bluralpha"
+         id="feOffset3223" />
+      <feMerge
+         id="feMerge3225">
+        <feMergeNode
+           in="offsetBlur"
+           id="feMergeNode3227" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode3229" />
+      </feMerge>
+    </filter>
+    <clipPath
+       id="clipPath3242">
+      <path
+         d="m -523.78647,179.64295 c -21.1187,0 -38.2331,17.13018 -38.2331,38.24896 0,14.35801 7.9113,26.85866 19.6144,33.39672 l -62.5892,62.5892 -3.8565,-3.8565 -1.98185,290.43626 c 329.99999,0 659.999994,0 990.00005,0 l 1.9818,-290.42046 -3.8407,3.8407 -63.2056,-63.20561 c 11.1079,-6.69052 18.5397,-18.86809 18.5397,-32.78031 0,-21.11878 -17.1302,-38.24896 -38.249,-38.24896 -21.1188,0 -38.23314,17.13018 -38.23314,38.24896 0,14.27036 7.82338,26.69982 19.40894,33.27027 l -62.71562,62.71565 -63.20561,-63.20561 c 11.10675,-6.68868 18.53968,-18.86769 18.53968,-32.78031 0,-21.11878 -17.11436,-38.24896 -38.23315,-38.24896 -21.11879,0 -38.248956,17.13018 -38.248956,38.24896 0,14.11594 7.6634,26.42607 19.045446,33.049 l -62.936916,62.93692 -63.00014,-63.00014 c 11.3141198,-6.64097 18.9190098,-18.91854 18.9190098,-32.98578 0,-21.11878 -17.1143698,-38.24896 -38.2331598,-38.24896 -21.11878,0 -38.23315,17.13018 -38.23315,38.24896 0,14.35801 7.91127,26.85866 19.61445,33.39672 l -60.724184,60.72417 -61.34058,-61.34058 c 11.10794,-6.69052 18.53969,-18.86809 18.53969,-32.78031 0,-21.11878 -17.13018,-38.24896 -38.24896,-38.24896 -21.11879,0 -38.23316,17.13018 -38.23316,38.24896 0,14.27036 7.82339,26.69982 19.40898,33.27027 l -62.71565,62.71565 -63.20561,-63.20561 c 11.10675,-6.68868 18.53968,-18.86769 18.53968,-32.78031 0,-21.11878 -17.11436,-38.24896 -38.23315,-38.24896 -21.11879,0 -38.24896,17.13018 -38.24896,38.24896 0,14.11594 7.6634,26.42607 19.04545,33.049 l -62.9369,62.93692 -63.00023,-63.00014 c 11.31425,-6.64097 18.91908,-18.91854 18.91908,-32.98578 0,-21.11878 -17.11434,-38.24896 -38.23318,-38.24896 z m -1.40535,100.81961 71.61409,71.61407 -71.61409,71.61406 -71.614,-71.61406 z m 164.45474,0 71.61406,71.61407 -71.61406,71.61406 -71.61409,-71.61406 z m 164.43891,0 71.61406,71.61407 -71.61406,71.61406 -71.61406,-71.61406 z m 160.392734,0 71.61407,71.61407 -71.61407,71.61406 -71.614064,-71.61406 z m 164.454716,0 71.61406,71.61407 -71.61406,71.61406 -71.614056,-71.61406 z m 164.43885,0 71.6141,71.61407 -71.6141,71.61406 -71.614,-71.61406 z"
+         id="path3244"
+         style="fill:#ffd42a;fill-opacity:1;stroke:none" />
+    </clipPath>
+    <filter
+       x="-0.25"
+       y="-0.25"
+       width="1.5"
+       height="1.5"
+       color-interpolation-filters="sRGB"
+       id="filter3246">
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="9.1"
+         in="SourceAlpha"
+         id="feGaussianBlur3248" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.445 0 "
+         type="matrix"
+         result="bluralpha"
+         id="feColorMatrix3250" />
+      <feOffset
+         result="offsetBlur"
+         dy="15.3"
+         dx="13.3"
+         in="bluralpha"
+         id="feOffset3252" />
+      <feMerge
+         result="fbSourceGraphic"
+         id="feMerge3254">
+        <feMergeNode
+           in="offsetBlur"
+           id="feMergeNode3256" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode3258" />
+      </feMerge>
+      <feColorMatrix
+         id="feColorMatrix3260"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="9.1"
+         in="fbSourceGraphicAlpha"
+         id="feGaussianBlur3262" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.445 0 "
+         type="matrix"
+         result="bluralpha"
+         id="feColorMatrix3264" />
+      <feOffset
+         result="offsetBlur"
+         dy="15.3"
+         dx="13.3"
+         in="bluralpha"
+         id="feOffset3266" />
+      <feMerge
+         result="fbSourceGraphic"
+         id="feMerge3268">
+        <feMergeNode
+           in="offsetBlur"
+           id="feMergeNode3270" />
+        <feMergeNode
+           in="fbSourceGraphic"
+           id="feMergeNode3272" />
+      </feMerge>
+      <feColorMatrix
+         id="feColorMatrix3274"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="9.1"
+         in="fbSourceGraphicAlpha"
+         id="feGaussianBlur3276" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.445 0 "
+         type="matrix"
+         result="bluralpha"
+         id="feColorMatrix3278" />
+      <feOffset
+         result="offsetBlur"
+         dy="15.3"
+         dx="13.3"
+         in="bluralpha"
+         id="feOffset3280" />
+      <feMerge
+         result="fbSourceGraphic"
+         id="feMerge3282">
+        <feMergeNode
+           in="offsetBlur"
+           id="feMergeNode3284" />
+        <feMergeNode
+           in="fbSourceGraphic"
+           id="feMergeNode3286" />
+      </feMerge>
+      <feColorMatrix
+         id="feColorMatrix3306"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="9.1"
+         in="fbSourceGraphicAlpha"
+         id="feGaussianBlur3308" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.445 0 "
+         type="matrix"
+         result="bluralpha"
+         id="feColorMatrix3310" />
+      <feOffset
+         result="offsetBlur"
+         dy="15.3"
+         dx="13.3"
+         in="bluralpha"
+         id="feOffset3312" />
+      <feMerge
+         id="feMerge3314">
+        <feMergeNode
+           in="offsetBlur"
+           id="feMergeNode3316" />
+        <feMergeNode
+           in="fbSourceGraphic"
+           id="feMergeNode3318" />
+      </feMerge>
+    </filter>
+    <filter
+       x="-0.25"
+       y="-0.25"
+       width="1.5"
+       height="1.5"
+       color-interpolation-filters="sRGB"
+       id="filter3320">
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="9.1"
+         in="SourceAlpha"
+         id="feGaussianBlur3322" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.445 0 "
+         type="matrix"
+         result="bluralpha"
+         id="feColorMatrix3324" />
+      <feOffset
+         result="offsetBlur"
+         dy="15.3"
+         dx="13.3"
+         in="bluralpha"
+         id="feOffset3326" />
+      <feMerge
+         id="feMerge3328">
+        <feMergeNode
+           in="offsetBlur"
+           id="feMergeNode3330" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode3332" />
+      </feMerge>
+    </filter>
+  </defs>
+  <metadata
+     id="metadata3091">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-200.43494,-1251.9382)"
+     id="layer1">
+    <path
+       d="m 315.65021,1306.4035 c -21.1187,0 -38.2331,17.1302 -38.2331,38.249 0,14.358 7.9113,26.8586 19.6144,33.3967 l -62.58921,62.5892 -3.8565,-3.8565 -1.98185,290.4363 c 330.00003,0 660.00003,0 989.99995,0 l 1.9818,-290.4205 -3.8407,3.8407 -63.2056,-63.2056 c 11.1079,-6.6906 18.5397,-18.8681 18.5397,-32.7803 0,-21.1188 -17.1302,-38.249 -38.249,-38.249 -21.1188,0 -38.233,17.1302 -38.233,38.249 0,14.2703 7.8233,26.6998 19.4088,33.2702 l -62.7155,62.7157 -63.20562,-63.2056 c 11.10682,-6.6887 18.53972,-18.8677 18.53972,-32.7803 0,-21.1188 -17.11442,-38.249 -38.23322,-38.249 -21.1188,0 -38.2489,17.1302 -38.2489,38.249 0,14.1159 7.6634,26.426 19.0454,33.049 l -62.9369,62.9369 -63.0001,-63.0002 c 11.3141,-6.6409 18.919,-18.9185 18.919,-32.9857 0,-21.1188 -17.1144,-38.249 -38.2332,-38.249 -21.1188,0 -38.2331,17.1302 -38.2331,38.249 0,14.358 7.9112,26.8586 19.6144,33.3967 l -60.7242,60.7242 -61.3405,-61.3406 c 11.1079,-6.6906 18.5396,-18.8681 18.5396,-32.7803 0,-21.1188 -17.1301,-38.249 -38.2489,-38.249 -21.1188,0 -38.2332,17.1302 -38.2332,38.249 0,14.2703 7.8234,26.6998 19.409,33.2702 l -62.7156,62.7157 -63.2057,-63.2056 c 11.1068,-6.6887 18.5397,-18.8677 18.5397,-32.7803 0,-21.1188 -17.1143,-38.249 -38.2331,-38.249 -21.1188,0 -38.249,17.1302 -38.249,38.249 0,14.1159 7.6634,26.426 19.0455,33.049 l -62.9369,62.9369 -63.00027,-63.0002 c 11.31425,-6.6409 18.91908,-18.9185 18.91908,-32.9857 0,-21.1188 -17.11434,-38.249 -38.23318,-38.249 z m -1.40535,100.8196 71.61412,71.6141 -71.61412,71.6141 -71.61401,-71.6141 z m 164.45472,0 71.6141,71.6141 -71.6141,71.6141 -71.6141,-71.6141 z m 164.4389,0 71.6141,71.6141 -71.6141,71.6141 -71.614,-71.6141 z m 160.3928,0 71.614,71.6141 -71.614,71.6141 -71.6141,-71.6141 z m 164.4547,0 71.61402,71.6141 -71.61402,71.6141 -71.6141,-71.6141 z m 164.43872,0 71.6141,71.6141 -71.6141,71.6141 -71.6139,-71.6141 z"
+       id="path3304"
+       style="fill:#ffd42a;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

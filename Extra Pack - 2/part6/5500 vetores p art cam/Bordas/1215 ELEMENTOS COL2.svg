@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="480px"
+   height="720px"
+   viewBox="0 0 480 720"
+   enable-background="new 0 0 480 720"
+   xml:space="preserve"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="scallopedgreenborder.svg"><metadata
+   id="metadata9"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs7"><inkscape:perspective
+     sodipodi:type="inkscape:persp3d"
+     inkscape:vp_x="0 : 360 : 1"
+     inkscape:vp_y="0 : 1000 : 0"
+     inkscape:vp_z="480 : 360 : 1"
+     inkscape:persp3d-origin="240 : 240 : 1"
+     id="perspective11" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1459"
+   inkscape:window-height="951"
+   id="namedview5"
+   showgrid="false"
+   inkscape:zoom="2.6222222"
+   inkscape:cx="198.94808"
+   inkscape:cy="438.69734"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<path
+   id="path3"
+   style="fill:#008000"
+   d="m 388.35811,298.23564 c -4.317,0 -8.013,-2.508 -9.83,-6.121 -14.1374,21.73279 -41.25635,19.76068 -55.479,-0.347 -4.64825,8.71758 -15.22224,7.99627 -20.032,0 -14.0853,22.20421 -41.71838,20.19428 -55.899,-0.35 -4.36123,8.85624 -14.95502,8.54133 -20.019,0.699 -14.13392,21.73117 -41.25904,19.75828 -55.476,-0.35 -4.64909,8.71703 -15.2234,7.99731 -20.033,0 -13.95485,22.0085 -41.29021,20.26333 -55.636996,0.084 -1.764,3.763 -5.55,6.383 -9.973,6.383 l -0.042,-55.609 302.461996,0 -0.042,55.611 z m -210.749,-16.591 c 7.79403,22.95034 35.29343,21.11692 43.717,0 l -43.717,0 z m 75.707,0 c 7.79543,22.9472 35.29501,21.11987 43.716,0 l -43.716,0 z m 75.722,0 c 7.7902,22.95127 35.29502,21.11686 43.716,0 l -43.716,0 z m -227.151,0 c 7.80037,22.94967 35.29398,21.11659 43.723,0 l -43.723,0 z"
+   sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+</svg>
