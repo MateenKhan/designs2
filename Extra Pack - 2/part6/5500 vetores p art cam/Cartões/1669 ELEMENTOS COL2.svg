@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2211"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   width="1274"
+   height="1299"
+   version="1.0"
+   sodipodi:docbase="C:\scrapbook layouts\frugalblog"
+   sodipodi:docname="hangingheartpocket.jpg.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2216">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2214" />
+  <sodipodi:namedview
+     inkscape:window-height="579"
+     inkscape:window-width="743"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.29330254"
+     inkscape:cx="637"
+     inkscape:cy="649.5"
+     inkscape:window-x="44"
+     inkscape:window-y="44"
+     inkscape:current-layer="svg2211" />
+  <image
+     xlink:href="hangingheartpocket.jpg"
+     sodipodi:absref="C:\scrapbook layouts\frugalblog\hangingheartpocket.jpg"
+     width="1274"
+     height="1299"
+     id="image2218"
+     x="0"
+     y="0" />
+  <path
+     style="fill:#000000"
+     d="M 832,1279.2932 C 754.81018,1275.1803 679.48286,1231.2065 645.13226,1161 C 629.71301,1131.233 628.19284,1112.0528 613.71188,1156.199 C 574.09942,1228.1027 491.89068,1271.786 410.53331,1268.6118 C 335.63015,1255.0005 269.43325,1199.1221 252.84369,1123.613 C 234.03705,1086.5655 265.26253,1030.004 257.73024,1005.5478 C 178.29063,1036.0383 79.307006,1005.8992 39,928.9969 C 9.2862821,882.10726 -1.188854,822.05682 24.383047,770.71449 C 44.976291,715.33079 86.600717,670.2681 138.72678,644.39344 C 135.69999,619.54307 73.203378,603.49519 62.911949,568.97837 C 24.465878,511.68781 -0.42848863,434.602 38.081649,370.14942 C 71.652949,295.05333 156.82964,246.84312 237.6188,267.68688 C 266.64734,275.38085 313.37295,296.36656 284.65558,247.5 C 259.68078,159.75072 308.6748,57.227581 395.68071,27.292402 C 462.25695,5.3487096 545.2481,20.616169 593.77027,72.331053 C 634.66935,87.881768 647.77865,202.00257 675.67335,121.5192 C 715.33098,62.555899 784.33657,28.105813 854,28.49542 C 939.81925,28.488586 1016.4332,99.080245 1027.3812,184.17832 C 1036.6092,222.81268 1021.8101,262.34842 1011.4856,297 C 1060.0269,277.94911 1114.0105,277.07883 1161.2158,299.37092 C 1254.8182,338.27909 1300.6817,463.73109 1246.5794,551.5047 C 1225.3095,604.55612 1178.409,640.63796 1128,663.83083 C 1130.4349,674.65601 1149.1372,672.80529 1159.9266,687 C 1182.2542,702.18262 1221.9731,736.68932 1233.8671,771 C 1266.4126,829.75537 1269.6376,907.59698 1227.5876,963.01571 C 1179.9993,1035.1276 1078.6089,1060.8869 1000.1791,1028.2283 C 1033.2196,1119.2456 985.78766,1233.4295 891.51357,1265 C 873.59084,1273.5506 851.57208,1278.2563 832,1279.2932 z M 1272.8544,219.75 C 1271.3705,179.61844 1271.7113,-24.734876 1273.5103,28.736435 C 1273.8402,100.15567 1274.1956,171.58297 1273.5,243 C 1272.8486,235.26692 1272.9917,227.50014 1272.8544,219.75 z "
+     id="path2220" />
+</svg>

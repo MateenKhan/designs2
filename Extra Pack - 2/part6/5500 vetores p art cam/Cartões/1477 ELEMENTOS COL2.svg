@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2521"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   width="210mm"
+   height="297mm"
+   sodipodi:docname="003b EB scallop frames.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2526">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2524">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2528" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="669"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.43901235"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
+     inkscape:window-x="52"
+     inkscape:window-y="102"
+     inkscape:current-layer="svg2521" />
+  <path
+     id="path5101"
+     d="M 49.419789,13.482137 C 49.941769,15.518427 50.229839,17.643837 50.229839,19.842107 C 50.229839,33.976137 38.745529,45.431987 24.609949,45.431987 C 21.494289,45.431987 18.522619,44.862267 15.759939,43.841997 L 15.759939,402.94015 C 18.522619,401.91985 21.494289,401.35045 24.609949,401.35045 C 38.745529,401.35045 50.229839,412.83635 50.229839,426.97035 C 50.229839,430.73645 49.412319,434.30865 47.949829,437.53023 L 408.99819,437.53023 C 407.53574,434.30865 406.7182,430.73645 406.7182,426.97035 C 406.7182,412.83635 418.20256,401.35045 432.3381,401.35045 C 434.94496,401.35045 437.43767,401.76515 439.80811,402.49045 L 439.80811,44.561987 C 437.52426,45.230307 435.1071,45.581977 432.60813,45.581977 C 418.47251,45.581977 407.01821,34.126137 407.01821,19.992107 C 407.01821,17.750217 407.28615,15.554857 407.82825,13.482137 L 49.539789,13.482137 L 49.419789,13.482137 z"
+     style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1.14870775px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>
