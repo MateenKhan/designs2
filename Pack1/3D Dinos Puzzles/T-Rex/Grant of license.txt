@@ -1,0 +1,65 @@
+ _______   ________   _____  _                 
+|  __ \ \ / /  ____| |  __ \| |                
+| |  | \ V /| |__    | |__) | | __ _ _ __  ___ 
+| |  | |> < |  __|   |  ___/| |/ _` | '_ \/ __|
+| |__| / . \| |      | |    | | (_| | | | \__ \
+|_____/_/ \_\_|      |_|    |_|\__,_|_| |_|___/
+-----------------------------------------------
+
+GRANT OF LICENSE DXF PLANS
+
+This agreement is a legal contract between the purchaser (Licensee) and DXF Plans and grants the licensee rights for personal or business use upon full payment of the license fee. Acquire any DXF Plans commercial license implies acceptance and compliance with the terms of this license unconditionally by the licensee. If the licensee does not agree with the license terms, you should not buy our products.
+
+ • Use Rights
+
+This license is valid only for a licensee to use the same project with another user, you will need to purchase another license.
+
+The DXF Plans retains ownership and all rights (copyright) traded on projects, grants the buyer a license to use non-transferable
+and royalty-free for use in the production of physical objects by CNC (Laser, Router and Plasma).
+
+ • Free Content
+
+Access to free content is available to all registered users on the site. The free projects have rights belonging to third parties, so can not be used for commercial purposes. All projects free not have assembly instructions and warranty of any kind. Use the content at your own risk.
+
+ • Paid Content
+
+Access to premium content is available to all registered users on the site. All content paid available has 30 days warranty and mounting detailed documentation.
+
+ • Warranty
+
+The DXF Plans provides only digital projects (cutting plans in 2D vector format), and can not guarantee that commercial projects are available completely free of errors therefore not responsible for any damage or loss caused directly or indirectly by the use of projects.
+
+The subsequent configuration and conversion projects in G-Code for CNC cutting is the responsibility of the licensee and requires prior knowledge of the procedures.
+
+The commercial projects will guarantee up to 30 days from the date of purchase against any problems in the files (corrupted files, and any design flaws or assembly instruction), will be corrected or replaced.
+
+ • Reimbursement
+
+Due to the nature of digital content sold is not possible that the licensee return the product (without staying with a copy) so we do not accept refund of amounts previously paid.
+
+In case of irreparable errors or there is no possibility of correction within the guarantee period, the DXF Plans may request reimbursement by replacing the defective design for another of equal or similar, must make a formal request via email.
+
+If it is verified that the original design in question has no reported errors, and that errors were caused inadvertently by the licensee, the DXF Plans reserves the right to refuse the refund application.
+
+ • Copyright
+
+All intellectual property rights related to products marketed are owned by 3D designer Paul Bubolz. The www.dxfplans.com website and all its contents are protected by national and international laws of copyright.
+
+All other content related directly or indirectly to products as reference pictures, assembly instructions, etc are the exclusive property of Paulo Bubolz and may not be used without express permission. It is absolutely prohibited to resell, sublicense, rent, loan, share, give, distribute or modify the designs commercially available, in whole or in part, in any digital media, and subproducts associated, (reference images, assembly instructions, etc.).
+
+Unauthorized copying or failure to comply with the above restrictions will result in automatic termination of this license, the deletion of the user's registration site and the immediate blocking of the user to the site (via IP) DXF Plans fitting to take legal action against the violation of their rights copyright.
+
+ • Privacy Policy
+
+The DFX Plans processes customer data only for own use, as meet requests, statistical analyzes internal news release or special offers.
+
+ • Validity of license
+
+The license granted by Licensor shall remain in effect until terminated. Failure to comply with any term of this agreement shall invalidate the license immediately and without notice. Upon termination, the licensee must immediately delete all files associated with the product and its contents.
+
+The DXF Plans reserves the right to modify or revise this Agreement at any time.
+
+www.dxfplans.com
+projects@dxfplans.com
+
+
