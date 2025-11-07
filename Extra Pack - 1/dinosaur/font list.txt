@@ -1,0 +1,22 @@
+a apatosaurus
+B brachiosaurus                
+M mammoth                   
+P pteranodon             
+p parasaurolophus
+S stegosaurus
+s spinosaurus
+T t rex
+t triceratops
+U styracosaurus
+z plesiosaurus
+
+
+
+        
+
+
+            
+
+
+
+
